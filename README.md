@@ -6,6 +6,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@daniiellmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@daniiellmd" height="30" width="40" /></a>
-<a href="https://instagram.com/danielmdn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danielmdn_" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@daniiellmd" height="20" width="30" /></a><a href="https://twitter.com/@daniiellmd" target="blank">https://twitter.com/@daniiellmd
+</p>
+<p align="left">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danielmdn_" height="20" width="30" /></a><a href="https://instagram.com/danielmdn_" target="blank">https://instagram.com/danielmdn_
 </p>
