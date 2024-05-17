@@ -11,3 +11,5 @@
 <p align="left">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danielmdn_" height="20" width="30" /></a><a href="https://instagram.com/danielmdn_" target="blank">Thanks !!
 </p>
+
+![descarga](https://github.com/qDark/qDark/assets/103046244/7c205484-671b-4288-bb68-0f5d65194b5b)
